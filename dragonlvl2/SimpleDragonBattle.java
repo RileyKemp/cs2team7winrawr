@@ -1,4 +1,4 @@
-package dragonlvl2;
+
 
 public class SimpleDragonBattle {
 	// default constructor

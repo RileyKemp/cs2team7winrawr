@@ -1,4 +1,3 @@
-package dragonlvl2;
 
 public class TestSimpleDragonBattle {
 
