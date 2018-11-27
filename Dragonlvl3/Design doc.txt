@@ -1,0 +1,9 @@
+User has 50 points to destribute between ATK and DEF
+Input ATK stat
+Def Stat = 50 - ATK
+If inputed values are greater than 50 error?
+Randomize CPU stats out of 50
+HP = 100
+Dice roll + ATK = DMG
+DMG - DEF = TDMG
+HP - TDMG
