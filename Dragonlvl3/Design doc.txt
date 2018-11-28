@@ -7,3 +7,19 @@ HP = 100
 Dice roll + ATK = DMG
 DMG - DEF = TDMG
 HP - TDMG
+
+Minimum game requirements
+
+Have a D20 die that never rolls a 0 or a 21
+
+Have a dragon you can name.
+
+Be able to set specific dragon attributes.
+
+Have the attributes load from a file 
+
+Have an automated enemy for the dragon.
+
+Have a dragon class
+
+Have a die class
