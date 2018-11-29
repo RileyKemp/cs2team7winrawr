@@ -10,16 +10,16 @@ HP - TDMG
 
 Minimum game requirements
 
-Have a D20 die that never rolls a 0 or a 21
+Have a D20 die that never rolls a 0 or a 21 - done
 
-Have a dragon you can name.
+Have a dragon you can name. - done
 
-Be able to set specific dragon attributes.
+Be able to set specific dragon attributes. - done
 
-Have the attributes load from a file 
+Have the attributes load from a file - done
 
-Have an automated enemy for the dragon.
+Have an automated enemy for the dragon.- done
 
-Have a dragon class
+Have a dragon class - done
 
 Have a die class
