@@ -19,7 +19,7 @@ public class SimpleDragonBattle extends D20{
 			System.out.print("Round: " + roundCount + ": ");
 			if(user1.getHealth() > 0) {
 				tempPrintAttack = user1.attack();
-				System.out.println("temp attack: " + tempPrintAttack);
+				System.out.println("Attack: " + tempPrintAttack);
 				computer1.setDamage(tempPrintAttack);
 			}
 
